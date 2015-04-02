@@ -1,0 +1,23 @@
+#slogan
+
+{
+
+  font-style: italic;
+
+}
+
+h1{
+	color: blue;
+	background-color: white;
+}
+
+body {
+
+color: 0,0,0;
+
+font-style: normal
+font-weight: 200;
+text-align: center;
+text-transform: capitalize; 
+
+}

@@ -1,0 +1,25 @@
+
+body {
+
+color: #000 ;
+
+font-style: normal;
+font-weight: 200;
+text-align: center;
+text-transform: uppercase; 
+font-family: 'Lobster', sans-serif;
+}
+
+
+h1{
+	color: #0000FF;
+	background-color: #FFF;
+}
+
+#slogan
+
+{
+
+  font-style: italic;
+
+}

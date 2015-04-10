@@ -1,26 +1,44 @@
+@import url(http://fonts.googleapis.com/css?family=Ledger&subset=latin,latin-ext);
+
+ul {
+ 
+ color: #0000FF;
+ text-align:left;
+ list-style:none;
+ padding: 0;
+ }
+
+
 body {
 
+    font-family: 'Ledger', serif;
+    color: #000000;
 	background-color: #FFFFFF;
-	margin: center;
 	text-align: center;
 
 }
 
+a:hover {
+    background-color: #0B310B;
+ 
+}
 .organize
 
 {
     color: #000000;
-	margin: left;
 	line-height: 120%;
+	text-align:left;
 }
 
-.colors
+#wrapper {
 
-{
-
-color: #100DFF;
-text-align:center;
-line-height: 130%;
-
+width: 600px;
+margin: 0 auto;
 
 }
+
+
+
+ 
+
+

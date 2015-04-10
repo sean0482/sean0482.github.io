@@ -1,44 +1,54 @@
-@import url(http://fonts.googleapis.com/css?family=Ledger&subset=latin,latin-ext);
-
-ul {
- 
- color: #0000FF;
- text-align:left;
- list-style:none;
- padding: 0;
- }
-
 
 body {
 
-    font-family: 'Ledger', serif;
-    color: #000000;
-	background-color: #FFFFFF;
-	text-align: center;
+background:url(http://i.imgur.com/4Mwawcx.jpg) no-repeat center center fixed;
+background-size:cover;
 
-}
-
-a:hover {
-    background-color: #0B310B;
- 
-}
-.organize
-
-{
-    color: #000000;
-	line-height: 120%;
-	text-align:left;
 }
 
 #wrapper {
 
-width: 600px;
-margin: 0 auto;
+
+list-style-type:none;
+display:inline-block;
+
+
+}
+nav {
+
+
+text-align:center;
+font-family: 'Shadows Into Light', cursive;
+font-size: 25pt;
+white-space: nowrap;
+
+}
+a:hover { 
+    color: rgb(255,100,10);
+}
+a {
+
+margin-right: 100px;
+color:rgb(255,255,255);
+text-decoration:none;
 
 }
 
 
 
+li {
+
+
+font-weight: 700;
+display:inline;
+
+}
+
+div {
+		
+margin-top: 40px;
+background: rgba(0,0,0,.5)
  
+}
 
 

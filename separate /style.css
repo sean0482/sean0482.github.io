@@ -6,14 +6,6 @@ background-size:cover;
 
 }
 
-#wrapper {
-
-
-list-style-type:none;
-display:inline-block;
-
-
-}
 nav {
 
 
@@ -49,6 +41,14 @@ div {
 margin-top: 40px;
 background: rgba(0,0,0,.5)
  
+}
+
+#wrapper {
+
+
+list-style-type:none;
+display:inline-block;
+
 }
 
 

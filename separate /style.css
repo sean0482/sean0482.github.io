@@ -6,13 +6,20 @@ background-size:cover;
 
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
 nav {
 
 
 text-align:center;
 font-family: 'Shadows Into Light', cursive;
+<<<<<<< HEAD
 font-size: 35px;
+=======
+font-size: 25px;
+>>>>>>> origin/master
 white-space: nowrap;
 
 }
@@ -47,6 +54,17 @@ background: rgba(0,0,0,.5)
 #wrapper {
 
 
+<<<<<<< HEAD
 list-style-type:none;
 display:block;
+=======
+#wrapper {
+
+
+list-style-type:none;
+display:block;
+
+}
+
+>>>>>>> origin/master
 

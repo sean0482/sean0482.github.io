@@ -9,17 +9,21 @@ background-size:cover;
 nav {
 
 
-text-align:center;
+text-align:left;
 font-family: 'Shadows Into Light', cursive;
-font-size: 35px;
+font-size: 55px;
 white-space: nowrap;
 
 }
-a:hover { 
-    color: rgb(255,100,10);
-}
-a {
 
+
+
+}
+.navlist a:hover { 
+
+color: rgb(255,100,10);
+border-bottom: 2px solid rgb(255,100,10);
+padding-bottom: 4px; 
 margin-right: 100px;
 color:rgb(255,255,255);
 text-decoration:none;
@@ -27,6 +31,8 @@ display:inline-block;
 
 }
 
+
+}
 li {
 
 
@@ -49,5 +55,20 @@ list-style-type:none;
 display:block;
 
 }
+
+#social{
+
+color:#FFFFFF;
+font-weight: 10px;
+font-size: 18px;
+bottom: 0;
+left: 0;
+padding-bottom: 10px;
+position: fixed;
+right: 0;
+text-align: center;
+word-spacing: 75px;
+}
+
 
 

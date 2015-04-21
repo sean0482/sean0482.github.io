@@ -5,3 +5,12 @@ margin-right: auto;
 text-align: center;
 
 }
+
+p {
+
+width:475px;
+text-align:center;
+margin:0 auto;
+display:block;
+padding:18px;
+}
